@@ -12,4 +12,4 @@ The primary objectives are:
 7.Visualization: Presenting the sentiment analysis results through visualizations, aiding restaurant owners and managers in understanding customer feedback.
 
 Overall, the project aims to assist restaurants in making data-driven decisions to enhance customer experiences, improve service quality, and boost customer 
-satisfaction by analyzing and acting upon sentimentsexpressed in reviews.
+satisfaction by analyzing and acting upon sentimentsexpressed in reviews
